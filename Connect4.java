@@ -120,6 +120,5 @@ public class Connect4 extends Application {
 			playerTurnText.setText("Player 2's Turn");
 			playerTurnText.setFill(Color.YELLOW);
 		}
-		playerTurnText.requestFocus();
 	}
 }
